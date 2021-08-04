@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e33e7b0-5d80-4278-9e93-2cb91b43815f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/spam.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hamspam.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/hamspam.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628028703897</updated>
       <workItem from="1628028705618" duration="5717000" />
+      <workItem from="1628081226277" duration="4006000" />
     </task>
     <servers />
   </component>
